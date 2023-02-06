@@ -32,7 +32,7 @@ const Template = async () => {
           <a href="https://github.com/Jrm04">
             <img src="${github}" />
           </a>
-          <a href="https://instagram.com/gndx">
+          <a href="https://www.instagram.com/jehiko_mosquera">
             <img src="${instagram}" />
           </a>
         </div>
